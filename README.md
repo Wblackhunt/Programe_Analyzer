@@ -1,25 +1,21 @@
 # Programe_Analyzer
 
-![Project Logo](path/to/logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+- [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
-## Introduction
-A brief description of your project, what it does, and why it is useful.
+- ### Introduction
+    - This is a basic python program analyzer, which analyze your python programe . this dosent support other programing language.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- ### Features
+    - It is a simple and a basic feature to find error. Sometime if your programe is fully correct after that it show    error .Reason is that it is not developed to high level
 
-## Installation
-Step-by-step instructions on how to install and set up your project.
+- ### Setup
+    - It is a very easy setup you have to just copy it and save it in .py formate 
+    - Run it now enter programe name which you have to analyze.
 
+- ### Usage
+    - It has only a single use to analyze error 
 
